@@ -1,0 +1,1 @@
+faites en sorte qu'on puisse supprimer un produit du tableau gestion_produit en ayant une boite de dialogue pour confirmer la suppression
